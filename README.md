@@ -35,8 +35,8 @@ In the multithreaded game implementation, each player is represented as a thread
       ```
 
 ## contributors
+- [ABDULKAREEM MANSOOR QASEM ABDO AL-SARORI](https://github.com/karim-mansoor)
+- [HASAN BERA KABADAĞI](https://github.com/Yesodeli)
+- [YAHYA ELİMAM](https://github.com/yhyimm)
+- [Yousef Saif](https://github.com/yAlqubati)
 
-- ABDULKAREEM MANSOOR QASEM ABDO AL-SARORI(https://github.com/karim-mansoor)
-- HASAN BERA KABADAĞI(https://github.com/Yesodeli)
-- YAHYA ELİMAM(https://github.com/yhyimm)
-- Yousef Saif(https://github.com/yAlqubati)
